@@ -158,3 +158,6 @@ ORDER BY Percentage_Of_Total_Sales DESC;
 ```
 
 ![SQL -- Percentage of Sales per Region](https://github.com/user-attachments/assets/f628267d-a59b-4ad8-949e-a37566b0f79f)
+
+
+#### 3. Using Power Bi to Create a dashboard that visualizes the insights found in Excel and SQL.
