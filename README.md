@@ -55,5 +55,25 @@ The following insights will be drawn from the dataset
 Analysis Breakdown
 
 
+#### 1a. Use pivot tables to summarize 
+**i. Total sales by product**
 
+![Total Sales by Product](https://github.com/user-attachments/assets/0133a7a6-2378-4aca-9455-6f892e425157)
 
+**ii. Total Sales by region**
+
+![Total Sales by Region](https://github.com/user-attachments/assets/e402bb6f-fe5d-4578-b1ae-fdf83ce9d1ca)
+
+**iii. Total Sales per Month**
+
+![Quantity Sold per Month](https://github.com/user-attachments/assets/1621c07a-0538-4952-95b7-5a8e9d001464)
+
+#### 1b. Use Excel formulas to calculate metrics such as;
+
+**i. Average sales per product**
+
+![Avg Sales per product](https://github.com/user-attachments/assets/17a15c47-cdc7-445f-a650-0fbb3e84c9b6)
+
+**ii. Total revenue by region and Top 10 Revenue Generating Customers**
+
+![Top 10 Revenue Gerating Customers](https://github.com/user-attachments/assets/fcbba7ca-c2ab-42d5-a0b3-df2ad0383261)
