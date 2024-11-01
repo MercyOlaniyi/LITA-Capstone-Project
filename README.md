@@ -77,3 +77,84 @@ Analysis Breakdown
 **ii. Total revenue by region and Top 10 Revenue Generating Customers**
 
 ![Top 10 Revenue Gerating Customers](https://github.com/user-attachments/assets/fcbba7ca-c2ab-42d5-a0b3-df2ad0383261)
+
+#### 2. Using SQL write queries to extract key insights 
+
+**i.  Total sales for each product category**
+
+```
+--Retrieve the total sales for each product category.
+SELECT 
+	DISTINCT(Product),SUM(Revenue_Quantity_Unit_Price) as Total_Sales
+FROM New_Sales_File
+GROUP BY Product
+````
+
+![SQL -- Total sales for each product category](https://github.com/user-attachments/assets/291d04bb-ea11-4bec-a295-0626b4da7773)
+
+
+**ii. Number of sales transactions in each region**
+```
+--Find the number of sales transactions in each region.
+SELECT
+	DISTINCT(Region), SUM(Quantity) as Sales_Transactions
+FROM New_Sales_File
+GROUP BY Region
+```
+
+![SQL -- Number of Sales Transaction per Region](https://github.com/user-attachments/assets/94423070-7e6b-429e-ab5e-3bb97eda62e0)
+
+
+**iii. Highest-selling product by total sales value**
+```
+--Find the highest-selling product by total sales value. 
+SELECT 
+	DISTINCT(Product),SUM(Revenue_Quantity_Unit_Price) as Total_Sales
+FROM New_Sales_File
+GROUP BY Product
+ORDER BY Total_Sales desc
+```
+
+![SQL -- Highest Selling Product by Sales](https://github.com/user-attachments/assets/8671794a-d9a5-4674-b2f6-d50cdf4e392a)
+
+
+**iv.Total revenue per product**
+```
+-- calculate total revenue per product
+SELECT 
+	DISTINCT(Product),SUM(Revenue_Quantity_Unit_Price) as Total_Revenue
+FROM New_Sales_File
+GROUP BY Product
+```
+
+![SQL -- Total Revenue by Product](https://github.com/user-attachments/assets/53ab5bba-db33-48d7-a292-47906443689b)
+
+
+**v.Top 5 customers by total purchase amount**
+```
+-- calculate monthly sales totals for the current year. 
+SELECT * FROM New_Sales_File
+
+-- Find the top 5 customers by total purchase amount. 
+SELECT TOP 5 Customer_Id, SUM(Revenue_Quantity_Unit_Price) as Total_Sales
+FROM New_Sales_File
+GROUP BY Customer_Id
+ORDER BY Total_Sales DESC;
+```
+
+![SQL -- Top 5 customers by total purchase](https://github.com/user-attachments/assets/eb96f701-143a-44ad-a840-1ea019bfbb07)
+
+
+**vi. Percentage of total sales contributed by each region**
+```
+--calculate the percentage of total sales contributed by each region. 
+SELECT 
+    Region,
+    SUM(Revenue_Quantity_Unit_Price) AS Region_Sales,
+    (SUM(Revenue_Quantity_Unit_Price) * 100.0 / (SELECT SUM(Revenue_Quantity_Unit_Price) FROM New_Sales_File)) AS Percentage_Of_Total_Sales
+FROM New_Sales_File
+GROUP BY Region
+ORDER BY Percentage_Of_Total_Sales DESC;
+```
+
+![SQL -- Percentage of Sales per Region](https://github.com/user-attachments/assets/f628267d-a59b-4ad8-949e-a37566b0f79f)
