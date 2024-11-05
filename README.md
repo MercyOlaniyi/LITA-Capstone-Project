@@ -255,3 +255,17 @@ ORDER BY Percentage_Of_Total_Sales DESC;
 - There was fluctutions in January, August,September, November, December sales
 
 - April and May witnessed a significant drop in average quantity sold, suggesting a potential decline in demand or other factors influencing sales during these months.
+
+**Recommendations**
+
+- Shirts, Hats and Shoes seem to be driving sales. The company should consider investing in marketing and promotions for these products.
+
+- The company should explore opportunities to introduce new products or product variations to cater to evolving customer preferences.
+
+- Strategies to improve customer satisfaction and loyalty, such as personalized offers and loyalty programs should be implemented to increase sales.
+
+- The company should conduct regular price analysis and adjust pricing strategies to maximize revenue and profitability.
+
+- Focus on regions with high growth potential and develop targeted marketing campaigns.
+
+By leveraging these insights and taking proactive steps, the business can further optimize its sales performance and achieve sustainable growth.
