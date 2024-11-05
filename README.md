@@ -14,7 +14,7 @@
 
 [Analytical Tools](#analytical-tools)
 
-
+[Dashboard Overview](#dashboard-overview)
 
 
 ## Project Overview
