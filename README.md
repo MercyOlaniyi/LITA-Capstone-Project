@@ -194,4 +194,19 @@ ORDER BY Percentage_Of_Total_Sales DESC;
   
 - There seems to be a seasonal pattern, with higher sales in the earlier months and lower sales towards the end of the year.
 
-**d. 
+**d. Revenue per product per year
+
+![Screenshot 2024-11-05 084927](https://github.com/user-attachments/assets/47128b7a-a30e-41ea-9a5c-c3e4a334caad)
+
+- The total revenue has increased significantly from 2023 to 2024, indicating strong sales performance.
+  
+- The company has a diversified product line, with each product contributing to overall revenue.
+  
+- Shoes and Shirt consistently generated the highest revenue in both years, making them key contributors to the overall sales.
+  
+- The Hat product experienced significant growth in 2024, indicating a potential shift in consumer preferences or successful marketing strategies.
+  
+- Gloves maintained a steady revenue in 2023 but experienced a decrease in 2024. This could be due to various factors such as reduced demand, increased competition, or pricing strategies.
+  
+- Socks and Jacket: These products had relatively lower sales compared to others, suggesting potential areas for improvement or niche market targeting.
+  
