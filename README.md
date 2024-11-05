@@ -161,3 +161,15 @@ ORDER BY Percentage_Of_Total_Sales DESC;
 
 
 #### 3. Using Power Bi to Create a dashboard that visualizes the insights found in Excel and SQL.
+
+**a. Total Sales by Product**
+
+![Screenshot 2024-11-05 073543](https://github.com/user-attachments/assets/98173c8b-f9b4-415f-b6eb-dcafabe5eb57)
+
+- Shoes are the top-selling product: With sales of $3,087,500 million, shoes are significantly outperforming other products.
+  
+- Shirts follow closely behind shoes, with total sales of $2,450,000 indicating strong demand for this product category.
+  
+- Hats, gloves, jackets, and socks have significantly lower sales compared to shoes and shirts.
+  
+- While shoes and shirts are the top performers, exploring opportunities to boost sales of other products could be beneficial.
