@@ -194,7 +194,7 @@ ORDER BY Percentage_Of_Total_Sales DESC;
   
 - There seems to be a seasonal pattern, with higher sales in the earlier months and lower sales towards the end of the year.
 
-**d. Revenue per product per year
+**d. Revenue per product per year**
 
 ![Screenshot 2024-11-05 084927](https://github.com/user-attachments/assets/47128b7a-a30e-41ea-9a5c-c3e4a334caad)
 
@@ -210,3 +210,37 @@ ORDER BY Percentage_Of_Total_Sales DESC;
   
 - Socks and Jacket: These products had relatively lower sales compared to others, suggesting potential areas for improvement or niche market targeting.
   
+**e. Top 5 Revenue generating Customers**
+
+![Screenshot 2024-11-05 090207](https://github.com/user-attachments/assets/298e77a0-a71c-4ed0-950d-ae3321f9a44f)
+
+- The chart highlights the top 5 customers based on their revenue contribution.
+  
+- Customers Cus1233 and Cus1354 are the top revenue generators, each contributing $25,000.
+  
+- The remaining customers (Cus1497, Cus1478, and Cus1408) have similar revenue contributions, falling within a slightly lower tier.
+
+
+**f. Quantity Sold by product**
+
+![Screenshot 2024-11-05 090421](https://github.com/user-attachments/assets/075913ae-3098-4487-90fb-8db8f8a50e31)
+
+- The top-selling product is the Hat, selling 80,000 which accounts for 23.19% of the total quantity sold, closely followed by Shoes with 73,000 units sold, contributing 21.01% to total quantity sold.
+
+- Gloves and Shirts have significantly lower sales compared to Hat sand Shoes but equally contributed 18.12% respectively to the total quantity sold.
+  
+- Socks and Jacket have lover sales volumes, contributing less than 12% to the overall sales mix.
+
+**g. 
+
+![Screenshot 2024-11-05 093009](https://github.com/user-attachments/assets/f92d4338-7724-4a41-b8c7-5e4267c11106)
+
+- The chart reveals distinct seasonal patterns in average quantity sold.
+
+- Sales peaked in February and June, indicating potential factors like seasonal promotions, holidays, or product launches driving these spikes.
+  
+- March, July and October show relatively stable performance, indicating consistent demand during these months.
+
+- There was fluctutions in January, August,September, November, December sales
+
+- April and May witnessed a significant drop in average quantity sold, suggesting a potential decline in demand or other factors influencing sales during these months.
