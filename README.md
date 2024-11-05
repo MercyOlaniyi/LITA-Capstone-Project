@@ -184,4 +184,14 @@ ORDER BY Percentage_Of_Total_Sales DESC;
   
 - The North and West regions have relatively similar sales figures, each contributing 18.42% and 14.29% respectively to the total revenue.
 
-**c. 
+**c. Total Sales by Month**
+
+![Screenshot 2024-11-05 082152](https://github.com/user-attachments/assets/4cb21a59-f53f-4eee-ac03-bb9b9ec9c997)
+
+- Sales experienced a significant spike in February, reaching a peak of $2.8 million in 2023 and $1.5 million in 2024
+  
+- Following the February peak, sales generally declined throughout the year, with a slight increase in August of 2023.
+  
+- There seems to be a seasonal pattern, with higher sales in the earlier months and lower sales towards the end of the year.
+
+**d. 
