@@ -173,3 +173,15 @@ ORDER BY Percentage_Of_Total_Sales DESC;
 - Hats, gloves, jackets, and socks have significantly lower sales compared to shoes and shirts.
   
 - While shoes and shirts are the top performers, exploring opportunities to boost sales of other products could be beneficial.
+
+  **b. Total Sales by Region**
+
+  ![Screenshot 2024-11-05 081123](https://github.com/user-attachments/assets/0f9442ce-e6f9-4294-9b59-ee459f058f54)
+
+- The South region is the leading region with 44.16% in total sales , contributing significantly more than the other regions.
+  
+- The East region contributes 23.14% to the total sales.
+  
+- The North and West regions have relatively similar sales figures, each contributing 18.42% and 14.29% respectively to the total revenue.
+
+**c. 
