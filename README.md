@@ -15,6 +15,8 @@
 [Analytical Tools](#analytical-tools)
 
 
+
+
 ## Project Overview
 ---
 ### Objective: 
@@ -159,8 +161,17 @@ ORDER BY Percentage_Of_Total_Sales DESC;
 
 ![SQL -- Percentage of Sales per Region](https://github.com/user-attachments/assets/f628267d-a59b-4ad8-949e-a37566b0f79f)
 
+### 3.Dashboard Overview
 
-#### 3. Using Power Bi to Create a dashboard that visualizes the insights found in Excel and SQL.
+![Screenshot 2024-11-05 072857](https://github.com/user-attachments/assets/6caaa010-3282-47cf-924f-1820e187ff14)
+
+- Total revenue has increased significantly, likely due to increased product sales and higher average order value.
+  
+- Product Popularity: Shirt and Shoes have consistently been the top-selling products, contributing significantly to overall revenue.
+  
+- Customer Base Expansion: The number of unique customers has grown, indicating successful customer acquisition efforts.
+
+#### Dashboard Breakdown
 
 **a. Total Sales by Product**
 
@@ -231,7 +242,7 @@ ORDER BY Percentage_Of_Total_Sales DESC;
   
 - Socks and Jacket have lover sales volumes, contributing less than 12% to the overall sales mix.
 
-**g. 
+**g. Average Quanity Sold by Month
 
 ![Screenshot 2024-11-05 093009](https://github.com/user-attachments/assets/f92d4338-7724-4a41-b8c7-5e4267c11106)
 
